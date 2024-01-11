@@ -6,12 +6,13 @@ Este repositorio está destinado a recopilar plantillas, ejemplos de READMEs de 
 ## ¿Para que actualizar mi perfil de Github?
 Tu perfil de GitHub es una excelente manera de presentarte y destacar tus proyectos en una sola página. Este documento te permite mostrar tu personalidad, habilidades y logros, atrayendo la atención de otros desarrolladores y reclutadores.
 
-## ¿Qué necesito?
-- Cuenta de Github (un poco obvio)
-- Conocer que es un archivo README y lenguaje Markdown
-- Preparar texto de presentación y tener una idea de que quieres incluir
+## Tabla de Contenidos
+1. [Ejemplos de Perfiles](#ejemplos-de-perfil)
+2. [Recursos](#recursos)
+3. [Widgets](#widgets)
 
-## Ejemplos
+
+## Ejemplos de Perfiles
 - [Recopilación de ejemplos](https://zzetao.github.io/awesome-github-profile/)
 - [Magdeline Huang Repo](https://github.com/xsol05)
 
