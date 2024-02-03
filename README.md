@@ -30,7 +30,7 @@ Tu perfil de GitHub es una excelente manera de presentarte y destacar tus proyec
 ## Widgets
 ## SVG animate img
 > [!IMPORTANT]
-> La imagen tiene que ser .SVG
+> La imagen tiene que ser .svg
 
 <img width="300px"  src="IMG-SVG/Condor.svg"/>
 
@@ -42,7 +42,7 @@ para tener la animacion en tu imagen .svg, para tu Markdown.
 <style>
   .fadeIn {
     opacity: 0;
-    animation: fadeIn 0.5s linear 4.6s forwards;
+    animation: fadeIn 2s linear 2.8s forwards;
   }
 
   @keyframes fadeIn {
