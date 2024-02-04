@@ -28,6 +28,35 @@ Tu perfil de GitHub es una excelente manera de presentarte y destacar tus proyec
 - [Profilinator](https://profilinator.rishav.dev/)
 
 ## Widgets
+## SVG animate img
+> [!IMPORTANT]
+> La imagen tiene que ser .svg
+
+<img width="300px"  src="IMG-SVG/Condor.svg"/>
+<img width="100px"  src="IMG-SVG/cat.svg"/>
+
+---
+>- Ingeresa a tu imagen `svg` y coloca esta clase `class="fadeIn" ` en `<svg` y el codigo que dejo 👇 colocalo debajo de `</pattern>`
+para tener la animacion en tu imagen .svg, para tu Markdown. "para el bucle agregar" `infinite;`
+
+```console
+<style>
+  .fadeIn {
+    opacity: 0;
+    animation: fadeIn 2s linear 2.8s forwards;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+```
+
 ### GitHub stats
 Repo: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
